@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Zeyada&display=swap');
+
+section{
+background-color:navy;
+display:flex;
+flex-direction:row;
+justify-content: space-around;
+height: 50vh;
+}
+
+.green{
+  background-color: rgb(176, 224, 212);
+  width:100px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align:top;
+  font-family:"Zeyada";
+}
+
+.orange{
+
+
+}
+
