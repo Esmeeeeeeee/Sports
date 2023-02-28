@@ -8,8 +8,14 @@ justify-content: space-around;
 height: 50vh;
 }
 
+h1{
+  background-color:bisque ;
+  color: darkblue;
+}
+
 .green{
   background-color: rgb(176, 224, 212);
+  color: ;
   width:100px;
   padding: 10px;
   padding-left: 30px;
@@ -19,7 +25,14 @@ height: 50vh;
 }
 
 .orange{
-
-
+  background-color:coral;
+  Width:100px;
+  padding:10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: top;
+font-family: ;
 }
+
+
 
