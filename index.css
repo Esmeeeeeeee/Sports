@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Zeyada&display=swap');
-
 section{
 background-color:navy;
 display:flex;
@@ -14,14 +12,13 @@ h1{
 }
 
 .green{
-  background-color: rgb(176, 224, 212);
-  color: ;
+  background-color: rgb(94, 138, 81);
+  color:honeydew ;
   width:100px;
   padding: 10px;
   padding-left: 30px;
   padding-right: 30px;
   text-align:top;
-  font-family:"Zeyada";
 }
 
 .orange{
@@ -31,8 +28,13 @@ h1{
   padding-left: 30px;
   padding-right: 30px;
   text-align: top;
-font-family: ;
 }
 
-
+.lightgray{
+  background-color: lightgray;
+  width: 100px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
 
