@@ -19,6 +19,8 @@ h1{
   padding-left: 30px;
   padding-right: 30px;
   text-align:top;
+  margin-left: auto;
+margin-right: auto;
 }
 
 .orange{
@@ -28,6 +30,8 @@ h1{
   padding-left: 30px;
   padding-right: 30px;
   text-align: top;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .lightgray{
@@ -36,5 +40,7 @@ h1{
   padding: 10px;
   padding-left: 30px;
   padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
